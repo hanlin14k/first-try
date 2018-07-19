@@ -6,4 +6,9 @@ DELETE *
 FROM dbo.employee e
 WHERE e.emp_id in (23,12,9)
 
+DELETE *
+FROM dbo.employee e
+WHERE e.emp_id in (23,12,9)
+
+
 
