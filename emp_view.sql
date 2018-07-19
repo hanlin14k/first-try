@@ -1,0 +1,3 @@
+CREATE OR REPLACE VIEW EMP as
+SELECT *
+FROM dbo.employee;
